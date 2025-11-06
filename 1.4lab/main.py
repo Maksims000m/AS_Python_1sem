@@ -1,3 +1,4 @@
+# На месте c любой список
 def a(s):
     b = any(num % 2 != 0 for num in s)
     if b:
